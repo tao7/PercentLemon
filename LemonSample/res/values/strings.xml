@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LemonSample</string>
+    <string name="action_about">关于</string>
+    <string name="button_text_random">随机</string>
+
+</resources>
