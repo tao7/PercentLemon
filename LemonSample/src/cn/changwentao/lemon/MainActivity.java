@@ -62,6 +62,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 			builder.setTitle("关于");
 			builder.setMessage("百分比圆环Sample");
 			builder.setPositiveButton("确定", null).show();
+			return true;
 		}
 		return super.onOptionsItemSelected(item);
 	}
